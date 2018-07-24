@@ -1,3 +1,3 @@
 # Kanae the yandere
-A story about a yandere
+## A story about a yandere
 
